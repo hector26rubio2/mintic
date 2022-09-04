@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\mintic\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj": {}
+    "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\mintic\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj": {
+    "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\mintic\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
         "projectName": "veterinaria.App.Persistencia",
-        "projectPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\mintic\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
+        "projectPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\mintic\\veterianaria.App\\veterinaria.App.Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
