@@ -1,0 +1,12 @@
+C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\bin\Debug\net6.0\veterinaria.App.Dominio.deps.json
+C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\bin\Debug\net6.0\veterinaria.App.Dominio.dll
+C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\bin\Debug\net6.0\veterinaria.App.Dominio.pdb
+C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.dll
+C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\obj\Debug\net6.0\refint\veterinaria.App.Dominio.dll
+C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.pdb
+C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\obj\Debug\net6.0\ref\veterinaria.App.Dominio.dll

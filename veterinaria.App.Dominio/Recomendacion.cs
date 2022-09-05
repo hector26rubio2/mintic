@@ -9,9 +9,9 @@ namespace veterinaria.App.Dominio
     {   
         
   
-                private Veterinario veterinario {get; set;}
-                private String recomendacion {get;set;}
-                private LinkedList<String> medicamentos {get;set;}
+                private Veterinario Veterinario {get; set;}
+                private String NotasRecomendacion {get;set;}
+                private LinkedList<String> Medicamentos {get;set;}
         
     }
 }
