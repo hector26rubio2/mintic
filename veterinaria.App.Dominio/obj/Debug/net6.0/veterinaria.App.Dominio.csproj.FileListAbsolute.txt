@@ -10,3 +10,15 @@ C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App
 C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\obj\Debug\net6.0\refint\veterinaria.App.Dominio.dll
 C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.pdb
 C:\Users\hecto\OneDrive\Documentos\repositorios\veterianaria.App\veterinaria.App.Dominio\obj\Debug\net6.0\ref\veterinaria.App.Dominio.dll
+C:\Users\USUARIO.DESKTOP-EK3T73O\Documents\11 Mision Tic 2022\Repositorios\mintic\veterinaria.App.Dominio\bin\Debug\net6.0\veterinaria.App.Dominio.deps.json
+C:\Users\USUARIO.DESKTOP-EK3T73O\Documents\11 Mision Tic 2022\Repositorios\mintic\veterinaria.App.Dominio\bin\Debug\net6.0\veterinaria.App.Dominio.dll
+C:\Users\USUARIO.DESKTOP-EK3T73O\Documents\11 Mision Tic 2022\Repositorios\mintic\veterinaria.App.Dominio\bin\Debug\net6.0\veterinaria.App.Dominio.pdb
+C:\Users\USUARIO.DESKTOP-EK3T73O\Documents\11 Mision Tic 2022\Repositorios\mintic\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\USUARIO.DESKTOP-EK3T73O\Documents\11 Mision Tic 2022\Repositorios\mintic\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO.DESKTOP-EK3T73O\Documents\11 Mision Tic 2022\Repositorios\mintic\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\USUARIO.DESKTOP-EK3T73O\Documents\11 Mision Tic 2022\Repositorios\mintic\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.AssemblyInfo.cs
+C:\Users\USUARIO.DESKTOP-EK3T73O\Documents\11 Mision Tic 2022\Repositorios\mintic\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO.DESKTOP-EK3T73O\Documents\11 Mision Tic 2022\Repositorios\mintic\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.dll
+C:\Users\USUARIO.DESKTOP-EK3T73O\Documents\11 Mision Tic 2022\Repositorios\mintic\veterinaria.App.Dominio\obj\Debug\net6.0\refint\veterinaria.App.Dominio.dll
+C:\Users\USUARIO.DESKTOP-EK3T73O\Documents\11 Mision Tic 2022\Repositorios\mintic\veterinaria.App.Dominio\obj\Debug\net6.0\veterinaria.App.Dominio.pdb
+C:\Users\USUARIO.DESKTOP-EK3T73O\Documents\11 Mision Tic 2022\Repositorios\mintic\veterinaria.App.Dominio\obj\Debug\net6.0\ref\veterinaria.App.Dominio.dll

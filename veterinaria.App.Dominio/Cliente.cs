@@ -7,7 +7,7 @@ namespace veterinaria.App.Dominio
 {
     public class Cliente
     {
-        private LinkedList<Mascota> Mascotas {get;set;}
-        private string Correo {get;set;}
+        private LinkedList<Mascota> Mascotas { get; set; }
+        private string Correo { get; set; }
     }
 }

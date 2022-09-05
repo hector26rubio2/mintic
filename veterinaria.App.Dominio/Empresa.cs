@@ -3,11 +3,11 @@ using System;
 
 namespace veterinaria.App.Dominio
 {
-    public class Empresa 
+    public class Empresa
     {
-        private LinkedList <Veterinario> veterinarios {get; set;}
+        private LinkedList<Veterinario> veterinarios { get; set; }
 
-        private LinkedList <Cliente> clientes {get; set;}
+        private LinkedList<Cliente> clientes { get; set; }
 
     }
 

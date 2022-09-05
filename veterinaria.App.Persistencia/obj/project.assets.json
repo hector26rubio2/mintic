@@ -2030,34 +2030,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hecto\\.nuget\\packages\\": {}
+    "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
       "projectName": "veterinaria.App.Persistencia",
-      "projectPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj"
+            "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj"
             }
           }
         }
