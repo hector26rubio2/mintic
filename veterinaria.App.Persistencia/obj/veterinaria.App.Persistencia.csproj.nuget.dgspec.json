@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj": {}
+    "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.persistencia\\veterinaria.App.Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj": {
+    "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj",
         "projectName": "veterinaria.App.Dominio",
-        "projectPath": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,30 +59,32 @@
         }
       }
     },
-    "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj": {
+    "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.persistencia\\veterinaria.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.persistencia\\veterinaria.App.Persistencia.csproj",
         "projectName": "veterinaria.App.Persistencia",
-        "projectPath": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.persistencia\\veterinaria.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj": {
-                "projectPath": "C:\\Users\\USUARIO.DESKTOP-EK3T73O\\Documents\\11 Mision Tic 2022\\Repositorios\\mintic\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj"
+              "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj"
               }
             }
           }

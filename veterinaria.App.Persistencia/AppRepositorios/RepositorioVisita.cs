@@ -2,8 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using veterinaria.App.Persistencia;
+using veterinaria.App.Dominio;
 
-namespace FrecuenciaCardiaca.App.Persistencia.AppRepositorios
+namespace FrecuenciaCardiaca.App.Persistencia
 
 {
     public class RepositorioVisita : IRepositorioVsitia
@@ -14,7 +16,7 @@ namespace FrecuenciaCardiaca.App.Persistencia.AppRepositorios
         ///</summary>
         private readonly AppContext _appContext;
         ///<summary>
-        /// metodo constructor utiliza 
+        /// metodo constructor utiliza cls
         /// inyeccion de dependencias para indicar el contextos a utilizar
         ///</summary>
         ///<param name="appContext"></param>//

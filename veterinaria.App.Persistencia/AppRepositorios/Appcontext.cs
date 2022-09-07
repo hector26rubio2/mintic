@@ -3,10 +3,10 @@ using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using veterinaria.App.Dominio;
 
-namespace veterinaria.App.Persistence
+namespace veterinaria.App.Persistencia
 {
 
-    public class AppContext : DbContext
+    public class sAppContext : DbContext
 
 
     {

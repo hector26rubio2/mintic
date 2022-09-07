@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using veterinaria.App.Dominio;
 
-namespace veterinaria.App.Persistence.AppRepositorios
+namespace veterinaria.App.Persistencia
 
 {
     public class RepositorioUsuario : IRepositorioUsuario

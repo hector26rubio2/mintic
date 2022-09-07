@@ -1,6 +1,7 @@
 using System.Collections.Generic;
+using veterinaria.App.Dominio;
 
-namespace veterinaria.App.Persistence.AppRepositorios
+namespace veterinaria.App.Persistencia
 {
     public interface IRepositorioUsuario
     {

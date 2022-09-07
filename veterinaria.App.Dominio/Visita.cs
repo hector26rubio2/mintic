@@ -7,7 +7,7 @@ namespace veterinaria.App.Dominio
 {
     public class Visita
     {
-           private string cogido {get;set;}
+        private string cogido { get; set; }
         private float Temperatura { get; set; }
 
         private float Peso { get; set; }

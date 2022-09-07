@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using veterinaria.App.Dominio;
-
-namespace veterinaria.App.Persistence.AppRepositorios
+using veterinaria.App.Dominio;
+namespace veterinaria.App.Persistencia
 
 {
     public class RepositorioVeterinario : IRepositorioVeterinario
