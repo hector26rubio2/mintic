@@ -7,7 +7,7 @@ namespace veterinaria.App.Persistence.AppRepositorios
         IEnumerable<Usuario> GetAllUsuarios();
 
         Usuario AddUsuario(Usuario usuario);
-        Usuario UpdateUsuario(Usuario usuario)
+        Usuario UpdateUsuario(Usuario usuario);
     void DeleteUsuario(int idUsuario);
         Usuario GetUsuario(int idUsuario);
 

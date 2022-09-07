@@ -7,7 +7,7 @@ namespace veterinaria.App.Persistence.AppRepositorios
         IEnumerable<Veterinario> GetAllVeterinario();
 
         Veterinario AddVeterinario(Veterinario veterinario);
-        Veterinario UpdateVeterinario(Veterinario veterinario)
+        Veterinario UpdateVeterinario(Veterinario veterinario);
     void DeleteVeterinario(int idVeterinario);
         Usuario GetVeterinario(int idVeterinario);
 

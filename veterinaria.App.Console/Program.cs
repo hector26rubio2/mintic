@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
-Using System;
-Using VETERINARIA.APP.DOMINIO;
-Using VETERINARIA.APP.PERSISTENCIA;
+using System;
+using VETERINARIA.APP.DOMINIO;
+using VETERINARIA.APP.PERSISTENCIA;
 
 namespace VETERINARIA.APP.CONSOLE
 {
-    private static IRepositorioUsuario _repoUsuario new RepositorioUsuario(New Persistencia.AppContext());
+    private static IRepositorioUsuario _repoUsuario = new RepositorioUsuario(new Persistencia.AppContext());
     static void Main(string[] args)
     
     {
@@ -20,7 +20,7 @@ namespace VETERINARIA.APP.CONSOLE
     {
 
         var usuario = new Usuario();
-        {
+      /* {
 
         Nombre = "Nicolay",
         Apellido = "Perez",
@@ -30,10 +30,10 @@ namespace VETERINARIA.APP.CONSOLE
         Longitud = 5.076,
         Latitud = 75.522,
         Ciudad = "Manizales",
-        FechaNacimiento = new DateTime(1990, 04,, 12)
+        FechaNacimiento = new DateTime(1990, 04, 12);
         
         };
-
+*/
     _repoUsuario.AddUsuario(usuario);
     
     }
