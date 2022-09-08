@@ -14,6 +14,8 @@ namespace veterinaria.App.Persistencia
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Recomendacion> Recomendaciones { get; set; }
         public DbSet<Visita> Visitas { get; set; }
+        public DbSet<Mascota> Mascotas { get; set; }
+        public DbSet<Historial> Historias { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
 
