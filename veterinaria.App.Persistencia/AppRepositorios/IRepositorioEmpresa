@@ -1,0 +1,22 @@
+
+using System.Collections.Generic;
+using veterinaria.App.Dominio;
+
+namespace veterinaria.App.Persistencia
+{
+    public interface IRepositorioEmpresa
+    {   
+
+        IEnumerable<Empresa> GetAllEmpresa();
+
+        Empresa AddEmpresa(Empresa empresa);
+
+        Empresa UpdateEmpresa(Empresa empresa);
+
+        void DeleteEmpresa(string IdEmpresa);
+                
+        Empresa GetEmpresa(string IdEmpresa);
+                
+    }
+
+}
