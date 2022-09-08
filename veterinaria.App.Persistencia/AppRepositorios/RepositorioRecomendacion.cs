@@ -6,13 +6,16 @@ using veterinaria.App.Persistencia;
 
 namespace veterinaria.App.Persistencia
 {
-    public class RepositorioRecomendacion : IRespositorioRecomendacion
+    public class RepositorioRecomendacion : IRepositorioRecomendacion
 
     {
         ///<summary>
         /// referencias de la recomendacion
         ///</summary>
         private readonly AppContext _appContext;
+
+  
+
         ///<summary>
         /// metodo constructor utiliza 
         /// inyeccion de dependencias para indicar el contextos a utilizar
