@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("veterinaria.App.Dominio")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HolaWeb.App.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("veterinaria.App.Dominio")]
-[assembly: System.Reflection.AssemblyTitleAttribute("veterinaria.App.Dominio")]
+[assembly: System.Reflection.AssemblyProductAttribute("HolaWeb.App.Dominio")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HolaWeb.App.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

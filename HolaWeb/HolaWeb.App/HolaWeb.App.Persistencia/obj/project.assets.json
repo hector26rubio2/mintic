@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\desaf\\OneDrive\\Documentos\\proyecto\\mintic\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj",
-      "projectName": "veterinaria.App.Dominio",
-      "projectPath": "C:\\Users\\desaf\\OneDrive\\Documentos\\proyecto\\mintic\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj",
+      "projectUniqueName": "C:\\proyecto\\mintic\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj",
+      "projectName": "HolaWeb.App.Persistencia",
+      "projectPath": "C:\\proyecto\\mintic\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\HolaWeb.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\desaf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\desaf\\OneDrive\\Documentos\\proyecto\\mintic\\veterinaria.App.Dominio\\obj\\",
+      "outputPath": "C:\\proyecto\\mintic\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\desaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
