@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HolaWeb.App.Fronted/1.0.0": {
+        "runtime": {
+          "HolaWeb.App.Fronted.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HolaWeb.App.Fronted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
