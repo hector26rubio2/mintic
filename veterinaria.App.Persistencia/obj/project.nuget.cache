@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JoATG4wLTM/M2ABwBp19upqiuCN5R/Hqz3lXpw0jnx2Ii5mQSFwX9PXWIZ1GO4vsimCGFKl66963MxvHSaDIAQ==",
+  "dgSpecHash": "DKVAcshdNi+QAPt+k15MZXVTgSFwqDfuJKxKF8uII1vpI0X9GNf650N1S5m/iPKVUiKU8/AuERMq7drVk5BR7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.persistencia\\veterinaria.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hecto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hecto\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

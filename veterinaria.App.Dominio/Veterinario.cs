@@ -4,12 +4,13 @@ using System;
 namespace veterinaria.App.Dominio
 {
 
-public class Veterinario : Usuario{
+    public class Veterinario : Usuario
+    {
 
-public string TarjetaProfesional {get; set;}
+        public string TarjetaProfesional { get; set; }
 
 
-}
+    }
 
 
 }

@@ -3,25 +3,33 @@ using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using veterinaria.App.Dominio;
 
-namespace veterinaria.App.Persistence.AppRepositorios
+namespace veterinaria.App.Persistencia
 {
-    
-    public class AppContext : DbContext
+
+    public class sAppContext : DbContext
 
 
     {
-        public DbSet<Recomendacion> recomendaciones { get; set; }
-        public DbSet<Visita> visitas { get; set; }
+        public DbSet<Veterinario> Veterinarios { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Recomendacion> Recomendaciones { get; set; }
+        public DbSet<Visita> Visitas { get; set; }
+        public DbSet<Mascota> Mascotas { get; set; }
+        public DbSet<Historial> Historias { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if(! optionsBuilder.IsConfigured)
+
+
+            if (!optionsBuilder.IsConfigured)
             {
-                    optionsBuilder
-                    .UseSqlServer("Data Source =(kicakdb)\\MSSQLLocalDB; Initial Catalog = VeterinariaData");
+                optionsBuilder
+                .UseSqlServer("Data Source =(kicakdb)\\MSSQLLocalDB; Initial Catalog = VeterinariaData");
             }
-          
+
         }
 
 
     }
+
+
 }

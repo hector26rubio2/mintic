@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj": {}
+    "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.persistencia\\veterinaria.App.Persistencia.csproj": {}
   },
   "projects": {
     "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Dominio\\veterinaria.App.Dominio.csproj": {
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj": {
+    "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.persistencia\\veterinaria.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.persistencia\\veterinaria.App.Persistencia.csproj",
         "projectName": "veterinaria.App.Persistencia",
-        "projectPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\veterinaria.App.Persistencia.csproj",
+        "projectPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.persistencia\\veterinaria.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\hecto\\OneDrive\\Documentos\\repositorios\\veterianaria.App\\veterinaria.App.persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config",
