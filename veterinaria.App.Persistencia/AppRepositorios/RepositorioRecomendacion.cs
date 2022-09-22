@@ -37,7 +37,8 @@ namespace veterinaria.App.Persistencia
 
         Recomendacion IRepositorioRecomendacion.DeleteRecomendacion(string codigo)
         {
-            var recomendacionEncontrado = _appContext.Recomendacion.FirstOrDefault(r => r.Codigo == codigo);
+            var recomendacionEncontrado = _appContext.Recomendacion.FirstOrDefault
+            (r => r.Codigo == codigo);
             if (recomendacionEncontrado == null)
                 return;
 

@@ -9,7 +9,15 @@ namespace veterinaria.App.Persistencia
 {
     public class RepositorioMascota : IRepositorioMascota
     {
-            private ReadOnly AppContext _appContext;    
+            ///<summary>
+        /// referencias de la empresa
+        ///</summary>
+        private readonly AppContext _appContext;
+        ///<summary>
+        /// metodo constructor utiliza 
+        /// inyeccion de dependencias para indicar el contextos a utilizar
+        ///</summary>
+        ///<param name="appContext"></param>//  
     
         public RepositorioMascota (AppContext appContext)
         {
