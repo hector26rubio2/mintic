@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\proyecto\\mintic\\HolaWeb\\HolaWeb.App.Fronted\\HolaWeb.App.Fronted.csproj",
+      "projectUniqueName": "C:\\proyecto\\mintic\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Fronted\\HolaWeb.App.Fronted.csproj",
       "projectName": "HolaWeb.App.Fronted",
-      "projectPath": "C:\\proyecto\\mintic\\HolaWeb\\HolaWeb.App.Fronted\\HolaWeb.App.Fronted.csproj",
+      "projectPath": "C:\\proyecto\\mintic\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Fronted\\HolaWeb.App.Fronted.csproj",
       "packagesPath": "C:\\Users\\desaf\\.nuget\\packages\\",
-      "outputPath": "C:\\proyecto\\mintic\\HolaWeb\\HolaWeb.App.Fronted\\obj\\",
+      "outputPath": "C:\\proyecto\\mintic\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Fronted\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\desaf\\AppData\\Roaming\\NuGet\\NuGet.Config"
